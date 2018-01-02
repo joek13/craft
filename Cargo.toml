@@ -1,0 +1,7 @@
+[package]
+name = "craft"
+version = "0.1.0"
+authors = ["Joe K. <joek1301@gmail.com>"]
+
+[dependencies]
+"glium"="*"
